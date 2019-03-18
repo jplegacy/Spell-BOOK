@@ -1,0 +1,68 @@
+*{
+    font-family: 'Economica', sans-serif;    
+}
+body{
+    background-color:black;
+    
+    }
+h1{
+    color:white;
+    text-align:center;
+}
+.bluebutton2 {
+    background-color:skyblue;
+    padding:5%;
+    border-radius:100%;
+    margin:auto;
+    border:none;
+}
+.bluebutton2:hover {
+    background-color:pink;
+    color:white;
+    }
+.redbutton{
+    background-color:maroon;
+    padding:5%;
+    border:none;
+    border-radius:100%;
+    margin:auto;
+}
+.redbutton:hover{
+    background-color:darkgreen;
+}
+.goldbutton{
+    background-color:gold;
+    padding:5%;
+    border:none;
+    border-radius:100%;
+    margin:auto;
+}
+.goldbutton:hover{
+    background-color:white;
+}
+.flash{
+    display:flex;
+}
+
+.electricspark{
+    margin:auto;
+    width:25%;
+    }
+.electricspark2{
+    margin:auto;
+    width:25%;
+    }
+
+.button{
+    display:flex;
+    margin-top:20px;
+    }
+.pics{
+    display:flex;
+    justify-content:center;
+    margin:auto;
+    }
+
+img{
+    width:25%;
+}
